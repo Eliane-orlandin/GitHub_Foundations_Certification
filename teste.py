@@ -1,1 +1,2 @@
-teste
+saudacao = 'Olá, mundo!'
+print(saudacao)
